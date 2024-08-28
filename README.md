@@ -1,34 +1,54 @@
-<h1 align="center">Hi 👋, I'm Hassan Essam</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=0e75b6&lines=Hi+There!+👋;+I'm+Hassan+Essam!+😎;" />
+</div>
 <h3 align="center">A passionate Frontend & Mobile developer</h3>
+<br>
+<br>
+                <!-- line-->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
+###
+   <!-- profile views-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hassanessam308&label=Profile%20views&color=0e75b6&style=flat" alt="hassanessam308" /> 
 </p>
+<br>
 
+ <!-- Current Streak-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hassanessam308" alt="hassanessam308" /></a> 
 </p>
+<br>
 
-###
-<div  >
-  <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanessam308&" alt="hassanessam308" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hassanessam308&show_icons=true&locale=en" alt="hassanessam308" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanessam308&show_icons=true&locale=en&layout=compact" alt="hassanessam308" />
-</p>
-</div close="both">
+<!--  My Stats -->
 
+## 📊 My Stats:
+<p align="center">
+    <a href="https://github.com/hassanessam308/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hassanessam308's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanessam308&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<a href="https://github.com/hassanessam308/github-readme-stats">
+  <img alt="hassanessam308's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hassanessam308&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/hassanessam308/github-readme-stats">
+    <img alt="hassanessam308's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanessam308&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
 
-###
-<div height="200" align="left">
- <img src="" height="400" alt=""  />
+<br>
+<br>
+     <!-- line-->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+## 🚀 Languages and Tools:
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
